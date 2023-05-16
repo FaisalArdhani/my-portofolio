@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/my-portofolio/static/css/main.6c471c52.css",
+    "main.js": "/my-portofolio/static/js/main.e5ab9910.js",
+    "static/media/profile.png": "/my-portofolio/static/media/profile.afc36b3762bbc80b2cc5.png",
+    "static/media/about.jpg": "/my-portofolio/static/media/about.653710fed768d5aea5e4.jpg",
+    "static/media/Faisal-cv.pdf": "/my-portofolio/static/media/Faisal-cv.a1f633032e8aed95a52f.pdf",
+    "index.html": "/my-portofolio/index.html",
+    "main.6c471c52.css.map": "/my-portofolio/static/css/main.6c471c52.css.map",
+    "main.e5ab9910.js.map": "/my-portofolio/static/js/main.e5ab9910.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.6c471c52.css",
+    "static/js/main.e5ab9910.js"
+  ]
+}
